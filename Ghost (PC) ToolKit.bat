@@ -67,7 +67,7 @@ echo.
 :: main menu page
 
 echo  Ce script vous guide à travers les étapes necessaires à la configuration initiale de WINDOWS 11 iOT
-echo  IMPORTANT : Privilégiez le *mode automatique*, en cas d'echec veuillez passez par les étapes numérotées. 
+echo  IMPORTANT : Privilégiez le *mode automatique*, en cas d'echec veuillez passer par les étapes numérotées. 
 echo. 
 echo. 
 echo. 
