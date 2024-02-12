@@ -102,6 +102,9 @@ goto d
 if %ans%==q (
 exit   
 )
+if %ans%==s (
+del "%~f0"   
+)
 
 :: function a [1]
 
